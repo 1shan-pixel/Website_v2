@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components; 
+@tailwind utilities; 
+
+
+a {
+  font-weight: 500;
+  
+  text-decoration: none;
+}
+a:hover {
+ 
+  text-decoration: none;
+}
+
+
+
